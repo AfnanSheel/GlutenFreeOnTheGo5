@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221366135052",
+    "project_id": "gluten-free-on-the-go",
+    "storage_bucket": "gluten-free-on-the-go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221366135052:android:e67604b87a23c50cdf8129",
+        "android_client_info": {
+          "package_name": "com.example.glutenfreeonthego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoV96T90td_ryNisQ1n1EeiGdmoK5uUpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

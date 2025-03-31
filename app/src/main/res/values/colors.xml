@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //Added Colours
+    <color name="buttonGreen">#4CAF50</color>
+    <color name="limeGreen">#CDDC39</color>
+    <color name="pastelGreen">#77DD77</color>
+    <color name="darkForestGreen">#006400</color>
+</resources>
